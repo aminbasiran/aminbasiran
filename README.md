@@ -1,10 +1,12 @@
 ![A self-learner who codes and throws many errors](https://pbs.twimg.com/profile_banners/923529004052652032/1659092924/1500x500)
 
-### Hey, i am <a href="https://github.com/aminbasiran">@aminbasiran👋</a>
+### Hej, i am <a href="https://github.com/aminbasiran">@aminbasiran👋</a>
 * A work-in-progress self-learner who learns how to code and throws many errors. Improving to write clean and concise codes. 40% writing codes, 40% spending time on stackoverflow finding solutions, 20% copy-and-paste. 
 * Breaking my way into tech and IT. 
 * Has a lot to learn, appreciate any guidance to help me improve.
 *available for work because I require your guidance and experiences in tech
+
+#### :bow_and_arrow:View the compilation of my data analysis projects [here](../Data-analysis)
 
 #### ⚒️What I know(read: I know the concepts and basics while the rest I search and learn on-demand)
 <div display="flex">

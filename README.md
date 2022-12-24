@@ -6,7 +6,7 @@
 * Has a lot to learn, appreciate any guidance to help me improve.
 *available for work because I require your guidance and experiences in tech
 
-#### :bow_and_arrow:View the compilation of my data analysis projects [here](../Data-analysis)
+#### :bow_and_arrow:View the compilation of my data analysis projects [here](https://github.com/aminbasiran/Data-analysis)
 
 #### ⚒️What I know(read: I know the concepts and basics while the rest I search and learn on-demand)
 <div display="flex">

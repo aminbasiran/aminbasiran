@@ -23,7 +23,7 @@
 #### 🤺What I'm currently learning: 
 <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=%2361DAFB" alt="Reactjs"/>
 
-#### 👨‍💻What project I'm currently on: pss peep my project [here]()
+#### 👨‍💻What project I'm currently on(peep my project [here](https://github.com/aminbasiran/Data-analysis)):
 <div display="flex">
   <img src="https://img.shields.io/badge/sql-orange?style=for-the-badge&logo=sql&logoColor=white" alt="sql"/>
   <img src="https://img.shields.io/badge/tableau-white?style=for-the-badge&logo=tableau&logoColor=blue" alt="sql"/>

@@ -21,21 +21,24 @@
 </div>
 
 #### 🤺What I'm currently learning: 
-<img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=%2361DAFB" alt="Reactjs"/>
-
-#### 👨‍💻What project I'm currently on(peep my project [here](https://github.com/aminbasiran/Data-analysis)):
+<div display="flex">
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=%2361DAFB" alt="Reactjs"/>
+  <img src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=%2361DAFB" alt="typescript"/>
+<div/>
+  
+#### 👨‍💻What project I'm currently on:
 <div display="flex">
   <img src="https://img.shields.io/badge/sql-orange?style=for-the-badge&logo=sql&logoColor=white" alt="sql"/>
   <img src="https://img.shields.io/badge/tableau-white?style=for-the-badge&logo=tableau&logoColor=blue" alt="sql"/>
 <div/>
 
-#### 👨‍💻What I'm exploring: <br>
+<!-- #### 👨‍💻What I'm exploring: <br>
 <div display="flex">
   <img src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=%2361DAFB" alt="typescript"/>
   <img src="https://img.shields.io/badge/node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js"/>
   <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="next.js"/>
   <img src="https://img.shields.io/badge/mongodb-white?style=for-the-badge&logo=mongodb&logoColor=green" alt="mongodb"/>
-</div>
+</div> -->
  
  #### 📫 Reach me elsewhere:
 

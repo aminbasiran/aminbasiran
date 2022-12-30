@@ -3,12 +3,12 @@
 ### Hej, i am <a href="https://github.com/aminbasiran">@aminbasiran👋</a>
 * A work-in-progress self-learner who learns how to code and throws many errors. Improving to write clean and concise codes. 40% writing codes, 40% spending time on stackoverflow finding solutions, 20% copy-and-paste. 
 * Breaking my way into tech and IT. 
-* Has a lot to learn, appreciate any guidance to help me improve.
+<!-- * Has a lot to learn, appreciate any guidance to help me improve. -->
 * Available to work at your disposal
 
 #### :bow_and_arrow:View the compilation of my data analysis projects [here](https://github.com/aminbasiran/Data-analysis)
 
-#### ⚒️What I know(read: I know the concepts and basics while the rest I search and learn on-demand)
+#### ⚒️What I know( & learn on-demand)
 <div display="flex">
   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=%2361DAFB" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=white" alt="Git"/>
 </div>
 
-#### 🤺What I'm currently learning: 
+#### 🤺What I'm currently exploring: 
 <div display="flex">
   <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=%2361DAFB" alt="Reactjs"/>
   <img src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=%2361DAFB" alt="typescript"/>

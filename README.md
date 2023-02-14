@@ -1,9 +1,9 @@
 ![A self-learner who codes and throws many errors](https://pbs.twimg.com/profile_banners/923529004052652032/1659092924/1500x500)
 
 ### Hej, i am <a href="https://github.com/aminbasiran">@aminbasiran👋</a>
-* A work-in-progress self-learner who learns how to code and throws many errors. Improving to write clean and concise codes. 40% writing codes, 40% spending time on stackoverflow finding solutions, 20% copy-and-paste. 
+* A work-in-progress self-learner who learns how to code and throws many errors. Improving to write clean and concise codes. Spent 80% of time on chatGPT and Stackoverflow.
+* Started dabbling into data analytics. Data enthusiast with a passion for analyzing data to uncover insights and solve problems. As a data analyst, I have experience working with large datasets, cleaning and transforming data, and creating visualizations to communicate data-driven insights.
 * Breaking my way into tech and IT. 
-<!-- * Has a lot to learn, appreciate any guidance to help me improve. -->
 * Available to work at your disposal
 
 #### :bow_and_arrow:View the compilation of my data analysis projects [here](https://github.com/aminbasiran/Data-analysis)
